@@ -53,8 +53,7 @@ Git & GitHub
 
 
 📊 Estatísticas
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Dcsilvaa97&show_icons=true&theme=tokyonight)
+![GitHub](https://img.shields.io/badge/GitHub-Dcsilvaa97-181717?style=flat&logo=github&logoColor=white)
 
 
 🌎 Onde me encontrar
