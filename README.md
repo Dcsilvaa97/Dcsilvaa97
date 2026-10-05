@@ -58,7 +58,7 @@ Git & GitHub
 
 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Silva-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Douglas-silva-134194383)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Silva-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-silva-711591441)
 [![Gmail](https://img.shields.io/badge/Gmail-douglaasbusiness-D14836?style=flat&logo=gmail&logoColor=white)](mailto:douglaasbusiness@gmail.com)
 
 
